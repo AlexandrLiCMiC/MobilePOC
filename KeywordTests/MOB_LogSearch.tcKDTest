@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{DB99F430-EC3C-4DCC-8500-8415EB0986E3}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.Device" Data="61717A6970000000010000003604000078018592C14A42511086AF61510B45130449EC0AA221088270C155E1420A145257EA42416955CB5A66BBDA554F906F606F906F506F906F506F90F74B07C7CBB97A60CECC3933FF3F67E64CA5EE04ADFFE5B8FB892B91A5042CDBB5DCB5F42F0EE6FD7037643713E597BB4CEBEBB570F587607377B0B307A5EF224630267D93AE4D2FE2A5071381CE67C2CADDF0B8FA8E688E6D79058B068B060307F56AFF365BE7925E8179CCF77E3AC9D3B7F37869845CA76B1F5EAE6EF26CACEB848BF320559DE01BE5DA333068279AEDD36FB8E046B8D39CF413D19CE2D77D86A710B62F9FF2FD5FF1A3399357DF89ADF147FBB1A2172B71A6DCF8E025AF1F3F31BCDDCF4F0F74AF259FD6F837FD9FB75F1A8B0D9619F0CB23F3EAC571060396459DB799E6A7298EFA88E5FFC4CF9C2C90AB1D8E46A2FC2C315AD37B38985D2792ED11BB42AE5BD404CF7DAEFD2D1CBC8D9CFCE37AB465CD0172147E8C" />
+					<Bitmap Name="Aliases.Device.processCmicField" Data="61717A6970000000010000003604000078018592C14A42511086AF61510B45130449EC0AA221088270C155E1420A145257EA42416955CB5A66BBDA554F906F606F906F506F906F506F90F74B07C7CBB97A60CECC3933FF3F67E64CA5EE04ADFFE5B8FB892B91A5042CDBB5DCB5F42F0EE6FD7037643713E597BB4CEBEBB570F587607377B0B307A5EF224630267D93AE4D2FE2A5071381CE67C2CADDF0B8FA8E688E6D79058B068B060307F56AFF365BE7925E8179CCF77E3AC9D3B7F37869845CA76B1F5EAE6EF26CACEB848BF320559DE01BE5DA333068279AEDD36FB8E046B8D39CF413D19CE2D77D86A710B62F9FF2FD5FF1A3399357DF89ADF147FBB1A2172B71A6DCF8E025AF1F3F31BCDDCF4F0F74AF259FD6F837FD9FB75F1A8B0D9619F0CB23F3EAC571060396459DB799E6A7298EFA88E5FFC4CF9C2C90AB1D8E46A2FC2C315AD37B38985D2792ED11BB42AE5BD404CF7DAEFD2D1CBC8D9CFCE37AB465CD0172147E8C" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.buttonLogSearch;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.SearchField;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" ParamType="{91E40FC5-34AB-4B37-B86A-789030413699}" Parameter="TextForSearch" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.SearchField;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Hides the virtual keyboard on the device." Action="HideVirtualKeyboard">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device;" />
+				</Data>
+			</Operation>
+			<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+				<Data LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+					<CommonData WaitTimeout="20000" />
+					<Root Type="1" Operator="0">
+						<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.processCmicField.NoRecordsFound.Exists" />
+						<Right DefVarType="0" VarType="11" ValueType="7" ValueValue="True" />
+					</Root>
+				</Data>
+				<Children>
+					<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+						<Data Description="Posts a warning to the test log." MessageType="2">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Text NOT found" />
+								<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+								<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+									<Values IsEnum="True">
+										<Value Type="1" Value="100" Text="pmLowest" />
+										<Value Type="1" Value="200" Text="pmLower" />
+										<Value Type="1" Value="300" Text="pmNormal" />
+										<Value Type="1" Value="400" Text="pmHigher" />
+										<Value Type="1" Value="500" Text="pmHighest" />
+									</Values>
+								</Parameter>
+								<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{92F2155F-410E-4D93-B7B3-684BA934382B}">
+				<Data />
+				<Children>
+					<Operation Type="{BFB3C418-1303-46B3-9B24-3624AB5EB529}">
+						<Data Description="Posts an information message to the test log." MessageType="0">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="MessageText" DefVarType="12" VarType="8" ValueType="6" ValueValue="Text found" />
+								<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+								<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+									<Values IsEnum="True">
+										<Value Type="1" Value="100" Text="pmLowest" />
+										<Value Type="1" Value="200" Text="pmLower" />
+										<Value Type="1" Value="300" Text="pmNormal" />
+										<Value Type="1" Value="400" Text="pmHigher" />
+										<Value Type="1" Value="500" Text="pmHighest" />
+									</Values>
+								</Parameter>
+								<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="Picture" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="FolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.buttonCloseSearch;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{DF9A9D67-F793-4520-8F5C-2176113840E0}">
+		<Parameter0 Name="TextForSearch" VarType="8" IsOptional="False" DefValueType="6" DefValueValue="16" Description="" />
+	</Parameters>
+</Root>

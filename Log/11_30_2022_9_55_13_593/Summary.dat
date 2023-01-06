@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="projects">
+			<Node name="project0">
+				<Node name="tests">
+					<Node name="test0">
+						<Node name="warnings">
+							<Node name="warning2">
+								<Prp name="msg" type="S" value="Failed to send results to TestRail. See the Details in the previous message."/>
+							</Node>
+							<Node name="warning0">
+								<Prp name="msg" type="S" value="The &quot;buttonLater&quot; object was replaced with a similar object."/>
+							</Node>
+							<Node name="warning1">
+								<Prp name="msg" type="S" value="There may be an error (or errors) caused by test self-healing."/>
+							</Node>
+						</Node>
+						<Node name="errors">
+							<Node name="error1">
+								<Prp name="msg" type="S" value="The test run has stopped because your test project is configured to stop on errors."/>
+							</Node>
+							<Node name="error0">
+								<Prp name="msg" type="S" value="Unable to verify a value with the property checkpoint, because the target object does not exist."/>
+							</Node>
+						</Node>
+						<Prp name="status" type="I" value="2"/>
+						<Prp name="starttime" type="D" value="44895.4133515278"/>
+						<Prp name="name" type="S" value="MOBMaster_RFI"/>
+						<Prp name="durationwithoutchildren" type="I" value="242057"/>
+						<Prp name="executionpoint" type="S" value="executionpoint://ewBCADMAOQBDAEEANgA5ADEALQBFADIARgBGAC0ANAAxADYANgAtADkAOQA4AEYALQBEAEUAQgBBADYAQwBBADkANQA2AEQAOQB9AC8AewAwAEMARQA3ADQARgBDADUALQBFADIAQwBEAC0ANAAyADIAMAAtADkAMwBDADIALQAzADgARAA4AEIANwBEADEAMQBCAEUAMAB9AC8AqpN8BLDIC0qKPrSbfs3IGwEAAAAvAGUAbQBwAHQAeQA="/>
+						<Prp name="duration" type="I" value="242057"/>
+					</Node>
+				</Node>
+				<Prp name="starttime" type="D" value="44895.4133515278"/>
+				<Prp name="warningtests" type="I" value="0"/>
+				<Prp name="name" type="S" value="MobilePOC"/>
+				<Prp name="incompletedtests" type="I" value="0"/>
+				<Prp name="failedtests" type="I" value="1"/>
+				<Prp name="duration" type="I" value="242057"/>
+			</Node>
+		</Node>
+		<Prp name="tests" type="I" value="1"/>
+		<Prp name="successtestwithretries" type="I" value="0"/>
+		<Prp name="warningtests" type="I" value="0"/>
+		<Prp name="starttime" type="D" value="44895.4133512616"/>
+		<Prp name="user" type="S" value="Alexandr.Li"/>
+		<Prp name="warningtestwithretries" type="I" value="0"/>
+		<Prp name="stop" type="D" value="44895.4161538773"/>
+		<Prp name="host" type="S" value="ALELI10-L"/>
+		<Prp name="testname" type="S" value="MobilePOC: CONSTRUCT\MOBMaster_RFI"/>
+		<Prp name="name" type="S" value="MobilePOC"/>
+		<Prp name="executionstatus" type="I" value="2"/>
+		<Prp name="failedtests" type="I" value="1"/>
+		<Prp name="key" type="S" value="{E2FDFA54-2DB5-4C1E-BC79-346388B266F4}"/>
+		<Prp name="incompletedtests" type="I" value="0"/>
+	</Node>
+</Nodes>

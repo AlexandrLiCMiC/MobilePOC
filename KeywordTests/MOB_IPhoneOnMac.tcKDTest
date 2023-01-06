@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{78AA99DE-6282-4136-84E0-2FF6F4E22060}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+				<Data Comment="=====Alex&apos;s MacBook - iPhone 12" />
+			</Operation>
+			<Operation Type="{0CAB7DC6-68EA-472F-AAFD-F1EA1701087E}">
+				<Data>
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="HubUrl" DefVarType="5" VarType="8" ValueType="6" ValueValue="http://192.168.1.51:4723/wd/hub" />
+						<Parameter Name="Capabilities" DefVarType="5" VarType="8" ValueType="6" ValueValue="{&quot;app&quot;:&quot;\/Users\/qateam\/Desktop\/ConstructPM.ipa&quot;,&quot;automationName&quot;:&quot;XCUITest&quot;,&quot;deviceName&quot;:&quot;Alexandr&apos;s iPhone&quot;,&quot;platformName&quot;:&quot;iOS&quot;,&quot;platformVersion&quot;:&quot;16.2&quot;,&quot;udid&quot;:&quot;00008101-00115C110163001E&quot;}" />
+						<Parameter Name="ConnectTimeoutSec" DefVarType="12" VarType="3" ValueType="1" ValueValue="600" />
+					</Parameters>
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{89F61581-6422-4F78-A48B-028F8A16D9BD}" />
+</Root>

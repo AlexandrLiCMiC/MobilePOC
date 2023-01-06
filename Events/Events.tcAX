@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="1400" key="{375C1FA4-B961-4DCA-BD3F-62F0B4606883}" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
+	<config nodeName="Events" tlbHistory="&quot;TestComplete general events&quot;" />
+	<testData />
+	<data />
+	<children>
+		<child key="{02D7DFA0-10FD-4540-B349-3A7E6B6C5868}">
+			<config nodeName="TestRail" lastOpenedTLB="" generatedCLSID="{42B217F8-2737-4EA9-8267-A132ECDA9A81}" generatedTLBKey="{9BF30CE0-6D97-4482-B098-6A5C0ED83DC0}" generatedEventsKey="{955AD16F-4C6C-44D8-A310-F1E5C7DE9DC2}" generatedTLBDesc="TestComplete TestRail Control - 11/22/2022 9:29:50">
+				<eventInfo infoTLBVer="version.dll" infoGUID="{F5856842-4323-49FD-B806-36E22179EF8A}" infoID="1610743811" infoControlName="Test Engine Events" infoEventName="OnStopTestCase" infoEventRealName="OnStopTestCase" infoDescription="Occurs when TestComplete stops running a test case or when the execution of a test case is over." />
+				<handlerInfo handlerName="TestRail_OnStopTestCase" handlerMoniker="{1B3A7E9E-1B68-4D0C-893D-88E15FAAE93F}TestRail_OnStopTestCase" handlerEventName="OnStopTestCase" handlerRealIID="{F5856842-4323-49FD-B806-36E22179EF8A}" handlerRealDispID="1610743811" />
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

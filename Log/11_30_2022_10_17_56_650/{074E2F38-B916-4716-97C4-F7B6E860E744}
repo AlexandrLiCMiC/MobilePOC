@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 1">
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="44895.4294960995"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="The device with the name &quot;ASUS2&quot; and index 1 has been made current."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="unit id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="1"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{CA37C2B3-69FF-461E-892E-57C3B07D8A08}"/>
+		</Node>
+		<Node name="message 2">
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="44895.4294978241"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="1111"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="remarks" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="2"/>
+		</Node>
+		<Node name="message 0">
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="date" type="D" value="44895.4294959491"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="message" type="S" value="Device &quot;ASUS2&quot; was connected."/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="line no" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;head&gt;&lt;style&gt;td{font-family: Courier New, Consolas, Segoe UI; font-size : 14px;}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;HubUrl:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;http://127.0.0.1:4723/wd/hub&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Capabilities:&lt;/b&gt;&lt;/td&gt;&lt;td&gt;{&quot;app&quot;:&quot;C:\\Users\\alexandr.li\\Documents\\TestComplete 15 Projects\\MobilePOC\\construct-pm-debug-apk-nov28.apk&quot;,&quot;automationName&quot;:&quot;UIAutomator2&quot;,&quot;deviceName&quot;:&quot;ASUS2&quot;,&quot;platformName&quot;:&quot;Android&quot;,&quot;platformVersion&quot;:&quot;8.0&quot;}&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="unit id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="0"/>
+		</Node>
+		<Node name="stack"/>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>

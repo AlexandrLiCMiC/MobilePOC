@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Mobile" Key="{6809F438-76DE-4CE7-9E6A-6740C21BA230}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Mobile" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Device" Key="{CC819E0A-5345-4D7C-88A0-20836B09136F}">
+						<TypeInfo Item0="{C6F7266B-E851-4BCE-B851-751037996871}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Device" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="processCmicField" Key="{3EFE836E-783B-4639-A793-ED0871F63B79}">
+								<Properties>
+									<Property Name="ProcessName">
+										<Value Value="ca.cmic.field" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Tenant" Key="{1A46FDE0-1973-4746-82AF-B67CA0A95625}">
+										<Image FileName="1653986097" Left="52" Top="618" Right="668" Bottom="736" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@text,&apos;Tenant&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="Username" Key="{B2C79E03-DB94-49D5-9BE0-5E4F2ED05C9F}">
+										<Image FileName="-712639939" Left="52" Top="736" Right="668" Bottom="854" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@text,&apos;Username&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="Password" Key="{629C5CB0-AB0B-4318-889D-6CD551078EF1}">
+										<Image FileName="2115893916" Left="52" Top="854" Right="668" Bottom="972" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@text,&apos;Password&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonSignIn" Key="{DFDC1B06-A695-4E6D-B56B-715433354897}">
+										<Image FileName="-1383543195" Left="68" Top="1100" Right="652" Bottom="1196" />
+										<Selectors>
+											<Selector>
+												<Value Value="//*[@content-desc=&quot;Sign in&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonLater" Key="{4C9A60D1-EB78-4175-9D06-55864AB00394}">
+										<Image FileName="-1324579061" Left="352" Top="863" Right="480" Bottom="959" />
+										<Selectors>
+											<Selector>
+												<Value Value="//*[@content-desc=&quot;Later&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonOpenNavDrawer" Key="{46B5242A-E99C-42BA-BD96-F1C5A2086683}">
+										<Image FileName="1003224947" Left="0" Top="48" Right="112" Bottom="160" />
+										<TypeInfo Item0="{CC85D28A-DA63-42CA-ACDC-AD007F378D54}" />
+										<Selectors>
+											<Selector>
+												<Value Value="2F002F002A005B00400063006F006E00740065006E0074002D0064006500730063003D00220042007500740074006F006E004F00700065006E004E00610076004400720061007700650072000A004F00700065006E0020006E0061007600690067006100740069006F006E0020006D0065006E00750022005D00" Type="7" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="TreeMenuRFIs" Key="{7997E503-A3F7-4ECA-99D2-4C0271241B27}">
+										<Image FileName="606832631" Left="0" Top="706" Right="608" Bottom="818" />
+										<Selectors>
+											<Selector>
+												<Value Value="780070006100740068003D002F002F002A005B0063006F006E007400610069006E0073002800400063006F006E00740065006E0074002D0064006500730063002C00220053007000720069006E00670062006F006100720064004900740065006D0052004600490073000A00220029005D00" Type="7" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonCreateRFI" Key="{7A41B094-92E1-4073-8A82-7E7B1F78726A}">
+										<Image FileName="-761160753" Left="576" Top="1296" Right="688" Bottom="1352" />
+										<Selectors>
+											<Selector>
+												<Value Value="2F002F002A005B00400063006F006E00740065006E0074002D0064006500730063003D0022000A005300700065006500640020004400690061006C0022005D00" Type="7" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="Subject" Key="{9920D636-6267-411B-B814-7C02B6EF328C}">
+										<Image FileName="-1018563315" Left="32" Top="366" Right="688" Bottom="484" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@text,&apos;TextFieldRfiDetailsSubject&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonAddContact" Key="{E5F05D19-681D-4240-B95F-0FE5A91E337B}">
+										<Image FileName="-1229830470" Left="32" Top="1162" Right="286" Bottom="1242" />
+										<Selectors>
+											<Selector>
+												<Value Value="(//*[@content-desc=&quot;Add Contact&quot;])[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="ContactAdam" Key="{40376F1A-47AA-4ED7-B168-3A985F88F153}">
+										<Image FileName="1713329177" Left="0" Top="0" Right="720" Bottom="1352" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@content-desc,&quot;SelectableListItemContactAgamSingh&quot;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="CostAmount" Key="{A16A38B3-8CB7-4EE9-95F0-5738CFA05254}">
+										<Image FileName="67262740" Left="380" Top="927" Right="688" Bottom="1045" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@text,&apos;TextFieldRfiDetailsCostAmount&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonSubmit" Key="{FC27BCAB-379E-485C-888B-A4E04AAE52BB}">
+										<Image FileName="658426808" Left="448" Top="56" Right="624" Bottom="152" />
+										<Selectors>
+											<Selector>
+												<Value Value="//*[@content-desc=&quot;SUBMIT&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="Answer" Key="{ABB4C4C6-E10F-4E8A-952B-AB4EB02FF400}">
+										<Image FileName="1865005834" Left="32" Top="611" Right="688" Bottom="729" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@text,&apos;TextFieldRfiDetailsAnswer&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="Question" Key="{E1B3FE30-B315-4C6C-9DBD-84D50D1A9224}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@text,&apos;TextFieldRfiDetailsQuestion&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="Days" Key="{C3EE8390-6FAA-4192-836B-9458B7CA74EF}">
+										<Image FileName="1363213871" Left="380" Top="1085" Right="688" Bottom="1203" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@text,&apos;TextFieldRfiDetailsDays&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="Suggestion" Key="{BD475625-4A8B-4B2A-AD21-14347CFBCB69}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@text,&apos;TextFieldRfiDetailsSuggestion&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="Record" Key="{8DCF1137-4226-4913-8959-B4DE4AB11C9A}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@content-desc,&quot;SelectableListItemRfiRecord%Value%&quot;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonRFIActions" Key="{244B448A-8B9A-4478-8A71-D976764073ED}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[@content-desc=&quot;ButtonRfiActionsMenu&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonDeleteRFI" Key="{632F4D9A-EC21-4702-9CE2-4B62A09A3CE5}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@content-desc,&quot;SelectableListItemDeleteRfi&quot;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonDelete" Key="{618822ED-4981-4D39-AF7C-B382A9661FA0}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[@content-desc=&quot;Delete&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="DateRequired" Key="{A07D6330-8E5C-4DDD-BBD2-5723F757C0E8}">
+										<Image FileName="-1352813073" Left="544" Top="630" Right="640" Bottom="726" />
+										<Selectors>
+											<Selector>
+												<Value Value="//*[@content-desc=&quot;ButtonRfiDetailsDateRequired&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="CalendarDate" Key="{3B3BD81A-038F-420A-95DC-7E32ECBF4634}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@content-desc,&quot;%Value%&quot;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonOK" Key="{55692D4A-7A7D-4E8E-BBAD-B7611390A91A}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[@content-desc=&quot;OK&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="Note" Key="{BBB2B6E2-659D-491B-A361-1002FD621465}">
+										<Image FileName="-918412964" Left="16" Top="1354" Right="528" Bottom="1424" />
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@text,&quot;TextFieldNote&quot;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="TreeMenuHome" Key="{E1055A47-57D4-4444-86D4-5CECC8514C4D}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@content-desc,&quot;SpringboardItemHome&quot;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="HeaderHome" Key="{309EB585-6231-4FF3-9227-4E5DA782522A}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[@content-desc=&quot;Home&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonAttachment" Key="{BD19706E-F94B-4795-82B0-1F925431170B}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[@content-desc=&quot;ButtonAddAttachmentMenu&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="selectDocumentFromFolder" Key="{E757A3D6-B15F-44F7-BD69-585646F4A1CB}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@content-desc,&quot;SelectableListItemDocumentsFromFolders&quot;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="selectDocumentFromFolderAttachment" Key="{87984E7F-ED5C-45B9-8C4B-B9A40A1EB08A}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@content-desc,&quot;SelectableListItemDocumentsFolderAttachment&quot;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="File9" Key="{50C59D88-9A33-4F3E-81FF-B24FC2FBCD4C}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@content-desc,&quot;SelectableListItemDocumentGridTileFile9&quot;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonAddRelatedObjects" Key="{EEFF2396-9EAF-44FA-ACF9-A26D4777ECAF}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[@content-desc=&quot;ButtonAddRelatedObjects&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonAddNote" Key="{D9BEDE3C-BA83-4D58-8D1D-D2842DC5B5BF}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[@content-desc=&quot;ButtonAddNote&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonLogSearch" Key="{B74AC93C-AF9C-41D5-AD4E-ED3719C890F3}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[@content-desc=&quot;ButtonLogSearch&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="SearchField" Key="{C9111E98-3878-4B9B-AF1A-86629F0173CE}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@text,&apos;TextFieldSearch&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="NoRecordsFound" Key="{701D3855-5D9B-4A8C-9530-B934CD5EEAD0}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[@content-desc=&quot;No Records Found&quot;]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonCloseSearch" Key="{3A117CF4-FEA8-44FB-BE0E-1FE20A44BC5F}">
+										<Image FileName="1652661784" Left="0" Top="48" Right="112" Bottom="148" />
+										<Selectors>
+											<Selector>
+												<Value Value="//android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.widget.Button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="ContactMichaelBerg" Key="{881DF598-2C77-45C5-8581-29AB6A97A307}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@content-desc,&quot;SelectableListItemContactMichaelBerg&quot;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+			<Child Name="Sys" Key="{0C0B240D-A6C8-4CC7-99E6-C7F1F20EF11B}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Device" Owner="{CC819E0A-5345-4D7C-88A0-20836B09136F}">
+			<Child Name="processCmicField" Owner="{3EFE836E-783B-4639-A793-ED0871F63B79}">
+				<Child Name="Tenant" Owner="{1A46FDE0-1973-4746-82AF-B67CA0A95625}" />
+				<Child Name="User" Owner="{B2C79E03-DB94-49D5-9BE0-5E4F2ED05C9F}" />
+				<Child Name="Password" Owner="{629C5CB0-AB0B-4318-889D-6CD551078EF1}" />
+				<Child Name="buttonSignIn" Owner="{DFDC1B06-A695-4E6D-B56B-715433354897}" />
+				<Child Name="buttonLater" Owner="{4C9A60D1-EB78-4175-9D06-55864AB00394}" />
+				<Child Name="buttonOpenNavDrawer" Owner="{46B5242A-E99C-42BA-BD96-F1C5A2086683}" />
+				<Child Name="buttonCreateRFI" Owner="{7A41B094-92E1-4073-8A82-7E7B1F78726A}" />
+				<Child Name="ContactAdam" Owner="{40376F1A-47AA-4ED7-B168-3A985F88F153}" />
+				<Child Name="buttonSubmit" Owner="{FC27BCAB-379E-485C-888B-A4E04AAE52BB}" />
+				<Child Name="buttonAddContact" Owner="{E5F05D19-681D-4240-B95F-0FE5A91E337B}" />
+				<Child Name="Subject" Owner="{9920D636-6267-411B-B814-7C02B6EF328C}" />
+				<Child Name="Suggestion" Owner="{BD475625-4A8B-4B2A-AD21-14347CFBCB69}" />
+				<Child Name="Answer" Owner="{ABB4C4C6-E10F-4E8A-952B-AB4EB02FF400}" />
+				<Child Name="Question" Owner="{E1B3FE30-B315-4C6C-9DBD-84D50D1A9224}" />
+				<Child Name="CostAmount" Owner="{A16A38B3-8CB7-4EE9-95F0-5738CFA05254}" />
+				<Child Name="Days" Owner="{C3EE8390-6FAA-4192-836B-9458B7CA74EF}" />
+				<Child Name="Record" Owner="{8DCF1137-4226-4913-8959-B4DE4AB11C9A}" />
+				<Child Name="buttonRFIActions" Owner="{244B448A-8B9A-4478-8A71-D976764073ED}" />
+				<Child Name="buttonDeleteRFI" Owner="{632F4D9A-EC21-4702-9CE2-4B62A09A3CE5}" />
+				<Child Name="buttonDelete" Owner="{618822ED-4981-4D39-AF7C-B382A9661FA0}" />
+				<Child Name="TreeMenuRFIs" Owner="{7997E503-A3F7-4ECA-99D2-4C0271241B27}" />
+				<Child Name="DateRequired" Owner="{A07D6330-8E5C-4DDD-BBD2-5723F757C0E8}" />
+				<Child Name="CalendarDate" Owner="{3B3BD81A-038F-420A-95DC-7E32ECBF4634}" />
+				<Child Name="buttonOK" Owner="{55692D4A-7A7D-4E8E-BBAD-B7611390A91A}" />
+				<Child Name="Note" Owner="{BBB2B6E2-659D-491B-A361-1002FD621465}" />
+				<Child Name="TreeMenuHome" Owner="{E1055A47-57D4-4444-86D4-5CECC8514C4D}" />
+				<Child Name="HeaderHome" Owner="{309EB585-6231-4FF3-9227-4E5DA782522A}" />
+				<Child Name="buttonAttachment" Owner="{BD19706E-F94B-4795-82B0-1F925431170B}" />
+				<Child Name="selectDocumentFromFolder" Owner="{E757A3D6-B15F-44F7-BD69-585646F4A1CB}" />
+				<Child Name="selectDocumentFromFolderAttachment" Owner="{87984E7F-ED5C-45B9-8C4B-B9A40A1EB08A}" />
+				<Child Name="File9" Owner="{50C59D88-9A33-4F3E-81FF-B24FC2FBCD4C}" />
+				<Child Name="buttonAddRelatedObjects" Owner="{EEFF2396-9EAF-44FA-ACF9-A26D4777ECAF}" />
+				<Child Name="buttonAddNote" Owner="{D9BEDE3C-BA83-4D58-8D1D-D2842DC5B5BF}" />
+				<Child Name="buttonLogSearch" Owner="{B74AC93C-AF9C-41D5-AD4E-ED3719C890F3}" />
+				<Child Name="SearchField" Owner="{C9111E98-3878-4B9B-AF1A-86629F0173CE}" />
+				<Child Name="NoRecordsFound" Owner="{701D3855-5D9B-4A8C-9530-B934CD5EEAD0}" />
+				<Child Name="buttonCloseSearch" Owner="{3A117CF4-FEA8-44FB-BE0E-1FE20A44BC5F}" />
+				<Child Name="ContactMichaelBerg" Owner="{881DF598-2C77-45C5-8581-29AB6A97A307}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

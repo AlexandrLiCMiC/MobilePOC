@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{FE58E366-AD88-4791-9CF7-29D018F94CE6}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.Device" Data="61717A6970000000010000003604000078018592C14A42511086AF61510B45130449EC0AA221088270C155E1420A145257EA42416955CB5A66BBDA554F906F606F906F506F906F506F90F74B07C7CBB97A60CECC3933FF3F67E64CA5EE04ADFFE5B8FB892B91A5042CDBB5DCB5F42F0EE6FD7037643713E597BB4CEBEBB570F587607377B0B307A5EF224630267D93AE4D2FE2A5071381CE67C2CADDF0B8FA8E688E6D79058B068B060307F56AFF365BE7925E8179CCF77E3AC9D3B7F37869845CA76B1F5EAE6EF26CACEB848BF320559DE01BE5DA333068279AEDD36FB8E046B8D39CF413D19CE2D77D86A710B62F9FF2FD5FF1A3399357DF89ADF147FBB1A2172B71A6DCF8E025AF1F3F31BCDDCF4F0F74AF259FD6F837FD9FB75F1A8B0D9619F0CB23F3EAC571060396459DB799E6A7298EFA88E5FFC4CF9C2C90AB1D8E46A2FC2C315AD37B38985D2792ED11BB42AE5BD404CF7DAEFD2D1CBC8D9CFCE37AB465CD0172147E8C" />
+					<Bitmap Name="Aliases.Device.processCmicField" Data="61717A6970000000010000003604000078018592C14A42511086AF61510B45130449EC0AA221088270C155E1420A145257EA42416955CB5A66BBDA554F906F606F906F506F906F506F90F74B07C7CBB97A60CECC3933FF3F67E64CA5EE04ADFFE5B8FB892B91A5042CDBB5DCB5F42F0EE6FD7037643713E597BB4CEBEBB570F587607377B0B307A5EF224630267D93AE4D2FE2A5071381CE67C2CADDF0B8FA8E688E6D79058B068B060307F56AFF365BE7925E8179CCF77E3AC9D3B7F37869845CA76B1F5EAE6EF26CACEB848BF320559DE01BE5DA333068279AEDD36FB8E046B8D39CF413D19CE2D77D86A710B62F9FF2FD5FF1A3399357DF89ADF147FBB1A2172B71A6DCF8E025AF1F3F31BCDDCF4F0F74AF259FD6F837FD9FB75F1A8B0D9619F0CB23F3EAC571060396459DB799E6A7298EFA88E5FFC4CF9C2C90AB1D8E46A2FC2C315AD37B38985D2792ED11BB42AE5BD404CF7DAEFD2D1CBC8D9CFCE37AB465CD0172147E8C" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+				<Data Comment="=====Local Appium - Android phone Asus" />
+			</Operation>
+			<Operation Type="{0CAB7DC6-68EA-472F-AAFD-F1EA1701087E}">
+				<Data>
+					<CommonData Disabled="True" />
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="HubUrl" DefVarType="5" VarType="8" ValueType="6" ValueValue="http://127.0.0.1:4723/wd/hub" />
+						<Parameter Name="Capabilities" DefVarType="5" VarType="8" ValueType="6" ValueValue="{&quot;app&quot;:&quot;C:\\Users\\alexandr.li\\Documents\\TestComplete 15 Projects\\MobilePOC\\construct-pm-debug-apk-nov28.apk&quot;,&quot;automationName&quot;:&quot;UIAutomator2&quot;,&quot;deviceName&quot;:&quot;ASUS_X00PD&quot;,&quot;platformName&quot;:&quot;Android&quot;,&quot;platformVersion&quot;:&quot;8.0&quot;}" />
+						<Parameter Name="ConnectTimeoutSec" DefVarType="12" VarType="3" ValueType="1" ValueValue="600" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+				<Data Comment="=====Alex&apos;s MacBook - Android phone Asus" />
+			</Operation>
+			<Operation Type="{0CAB7DC6-68EA-472F-AAFD-F1EA1701087E}">
+				<Data>
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="HubUrl" DefVarType="5" VarType="8" ValueType="6" ValueValue="http://192.168.1.51:4723/wd/hub" />
+						<Parameter Name="Capabilities" DefVarType="5" VarType="8" ValueType="6" ValueValue="{&quot;app&quot;:&quot;\/Users\/qateam\/Desktop\/ConstructPM.apk&quot;,&quot;automationName&quot;:&quot;UIAutomator2&quot;,&quot;deviceName&quot;:&quot;ASUS_X00PD&quot;,&quot;platformName&quot;:&quot;Android&quot;,&quot;platformVersion&quot;:&quot;8.0&quot;}" />
+						<Parameter Name="ConnectTimeoutSec" DefVarType="12" VarType="3" ValueType="1" ValueValue="600" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="10000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Tenant;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="CMICTEST" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Tenant;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Hides the virtual keyboard on the device." Action="HideVirtualKeyboard">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.User;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="CMICUSER" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.User;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Hides the virtual keyboard on the device." Action="HideVirtualKeyboard">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device;" />
+				</Data>
+			</Operation>
+			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+				<Data Comment="============UPG PROD env =============" />
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Password;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates one or several keypresses." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="a2bA6-55bFb-A6532-9699F-e99F6-98b5b-21C" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Password;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Hides the virtual keyboard on the device." Action="HideVirtualKeyboard">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.buttonSignIn;" />
+				</Data>
+			</Operation>
+			<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
+				<Data LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+					<Root Type="1" Operator="0">
+						<Left DefVarType="0" ParamType="{5EF65F78-D6E6-4C84-90CA-F464F32D7A1D}" Expression="Aliases.Device.processCmicField.buttonLater.Visible" />
+						<Right DefVarType="0" VarType="11" ValueType="7" ValueValue="True" />
+					</Root>
+				</Data>
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Simulates a touch on the view." Action="Touch">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+								<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.buttonLater;" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Device.processCmicField.buttonOpenNavDrawer" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Text" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{9A1B4E59-355D-4256-8603-7D59408E91FF}" />
+</Root>

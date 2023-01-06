@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{9918E52B-0E9F-449F-A6C4-213196C32664}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.Device" Data="61717A6970000000010000003604000078018592C14A42511086AF61510B45130449EC0AA221088270C155E1420A145257EA42416955CB5A66BBDA554F906F606F906F506F906F506F90F74B07C7CBB97A60CECC3933FF3F67E64CA5EE04ADFFE5B8FB892B91A5042CDBB5DCB5F42F0EE6FD7037643713E597BB4CEBEBB570F587607377B0B307A5EF224630267D93AE4D2FE2A5071381CE67C2CADDF0B8FA8E688E6D79058B068B060307F56AFF365BE7925E8179CCF77E3AC9D3B7F37869845CA76B1F5EAE6EF26CACEB848BF320559DE01BE5DA333068279AEDD36FB8E046B8D39CF413D19CE2D77D86A710B62F9FF2FD5FF1A3399357DF89ADF147FBB1A2172B71A6DCF8E025AF1F3F31BCDDCF4F0F74AF259FD6F837FD9FB75F1A8B0D9619F0CB23F3EAC571060396459DB799E6A7298EFA88E5FFC4CF9C2C90AB1D8E46A2FC2C315AD37B38985D2792ED11BB42AE5BD404CF7DAEFD2D1CBC8D9CFCE37AB465CD0172147E8C" />
+					<Bitmap Name="Aliases.Device.processCmicField" Data="61717A6970000000010000003604000078018592C14A42511086AF61510B45130449EC0AA221088270C155E1420A145257EA42416955CB5A66BBDA554F906F606F906F506F906F506F90F74B07C7CBB97A60CECC3933FF3F67E64CA5EE04ADFFE5B8FB892B91A5042CDBB5DCB5F42F0EE6FD7037643713E597BB4CEBEBB570F587607377B0B307A5EF224630267D93AE4D2FE2A5071381CE67C2CADDF0B8FA8E688E6D79058B068B060307F56AFF365BE7925E8179CCF77E3AC9D3B7F37869845CA76B1F5EAE6EF26CACEB848BF320559DE01BE5DA333068279AEDD36FB8E046B8D39CF413D19CE2D77D86A710B62F9FF2FD5FF1A3399357DF89ADF147FBB1A2172B71A6DCF8E025AF1F3F31BCDDCF4F0F74AF259FD6F837FD9FB75F1A8B0D9619F0CB23F3EAC571060396459DB799E6A7298EFA88E5FFC4CF9C2C90AB1D8E46A2FC2C315AD37B38985D2792ED11BB42AE5BD404CF7DAEFD2D1CBC8D9CFCE37AB465CD0172147E8C" />
+					<Bitmap Name="Aliases.Device.processCmicField.scrollView" Data="61717A6970000000010000003604000078018592C14A42511086AF61510B45130449EC0AA221088270C155E1420A145257EA42416955CB5A66BBDA554F906F606F906F506F906F506F90F74B07C7CBB97A60CECC3933FF3F67E64CA5EE04ADFFE5B8FB892B91A5042CDBB5DCB5F42F0EE6FD7037643713E597BB4CEBEBB570F587607377B0B307A5EF224630267D93AE4D2FE2A5071381CE67C2CADDF0B8FA8E688E6D79058B068B060307F56AFF365BE7925E8179CCF77E3AC9D3B7F37869845CA76B1F5EAE6EF26CACEB848BF320559DE01BE5DA333068279AEDD36FB8E046B8D39CF413D19CE2D77D86A710B62F9FF2FD5FF1A3399357DF89ADF147FBB1A2172B71A6DCF8E025AF1F3F31BCDDCF4F0F74AF259FD6F837FD9FB75F1A8B0D9619F0CB23F3EAC571060396459DB799E6A7298EFA88E5FFC4CF9C2C90AB1D8E46A2FC2C315AD37B38985D2792ED11BB42AE5BD404CF7DAEFD2D1CBC8D9CFCE37AB465CD0172147E8C" />
+					<Bitmap Name="Aliases.Device.processCmicField.scrollView2" Data="61717A6970000000010000003604000078018592C14A42511086AF61510B45130449EC0AA221088270C155E1420A145257EA42416955CB5A66BBDA554F906F606F906F506F906F506F90F74B07C7CBB97A60CECC3933FF3F67E64CA5EE04ADFFE5B8FB892B91A5042CDBB5DCB5F42F0EE6FD7037643713E597BB4CEBEBB570F587607377B0B307A5EF224630267D93AE4D2FE2A5071381CE67C2CADDF0B8FA8E688E6D79058B068B060307F56AFF365BE7925E8179CCF77E3AC9D3B7F37869845CA76B1F5EAE6EF26CACEB848BF320559DE01BE5DA333068279AEDD36FB8E046B8D39CF413D19CE2D77D86A710B62F9FF2FD5FF1A3399357DF89ADF147FBB1A2172B71A6DCF8E025AF1F3F31BCDDCF4F0F74AF259FD6F837FD9FB75F1A8B0D9619F0CB23F3EAC571060396459DB799E6A7298EFA88E5FFC4CF9C2C90AB1D8E46A2FC2C315AD37B38985D2792ED11BB42AE5BD404CF7DAEFD2D1CBC8D9CFCE37AB465CD0172147E8C" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.buttonOpenNavDrawer;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.TreeMenuRFIs;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.buttonCreateRFI;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Subject;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates keypresses on the view." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" ParamType="{91E40FC5-34AB-4B37-B86A-789030413699}" Parameter="Subject" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Subject;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Hides the virtual keyboard on the device." Action="HideVirtualKeyboard">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6F20B0D8-E0CF-47FF-A68B-3E3672DD0CB0}">
+				<Data VariableType="2" VariableName="Value">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="NewValue" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="aqConvert.DateTimeToFormatStr(aqDateTime.AddDays(aqDateTime.Today(), 1), &quot;%d, %Y&quot;)" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.DateRequired;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Refreshes the name mapping node." Action="RefreshMappingInfo">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.CalendarDate;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch" InvokeKind="-1">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.CalendarDate;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch" InvokeKind="-1">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.buttonOK;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.buttonAddContact;" />
+				</Data>
+			</Operation>
+			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
+				<Data Description="Delays the test execution for the specified time period.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="5000" />
+						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.ContactMichaelBerg;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a swipe gesture over the device screen." Action="Swipe">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="StartX" DefVarType="3" VarType="3" ValueType="1" ValueValue="445" />
+						<Parameter Name="StartY" DefVarType="3" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Aliases.Device.Desktop.Height/2" />
+						<Parameter Name="EndX" DefVarType="3" VarType="3" ValueType="1" ValueValue="448" />
+						<Parameter Name="EndY" DefVarType="3" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="Aliases.Device.Desktop.Width/2" />
+						<Parameter Name="Steps" DefVarType="3" DefValueType="1" DefValueValue="10" VarType="3" ValueType="1" ValueValue="10" />
+						<Parameter Name="Duration" DefVarType="3" DefValueType="1" DefValueValue="1000" VarType="3" ValueType="1" ValueValue="100" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Question;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates keypresses on the view." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="Question" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Question;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Hides the virtual keyboard on the device." Action="HideVirtualKeyboard">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Answer;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates keypresses on the view." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="Answer" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Answer;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Hides the virtual keyboard on the device." Action="HideVirtualKeyboard">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Suggestion;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates keypresses on the view." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="Suggestion" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Suggestion;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Hides the virtual keyboard on the device." Action="HideVirtualKeyboard">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.CostAmount;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates keypresses on the view." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="100" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.CostAmount;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Hides the virtual keyboard on the device." Action="HideVirtualKeyboard">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Days;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates keypresses on the view." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="2" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Days;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Hides the virtual keyboard on the device." Action="HideVirtualKeyboard">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device;" />
+				</Data>
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="MOB_AddAttachment" />
+			</Operation>
+			<Operation Type="{E8089E1C-53BC-4D9C-A69D-7CDDB49422CB}">
+				<Data Description="Runs a keyword test." TestName="MOB_AddNote" />
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Simulates a touch on the view." Action="Touch">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="X" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Y" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.buttonSubmit;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{1E42DCDF-A3C6-47F5-8EF6-6C16068C227B}">
+		<Parameter0 Name="Subject" VarType="8" IsOptional="False" DefValueType="6" DefValueValue="111" Description="" />
+	</Parameters>
+</Root>
