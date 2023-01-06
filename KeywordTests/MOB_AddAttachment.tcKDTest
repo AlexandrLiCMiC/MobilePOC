@@ -58,6 +58,9 @@
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.buttonAddRelatedObjects;" />
 				</Data>
 			</Operation>
+			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+				<Data Comment="111" />
+			</Operation>
 		</Children>
 	</TestData>
 	<Parameters Key="{AC29C823-F6E3-4B27-B1D6-170FC226A985}" />
