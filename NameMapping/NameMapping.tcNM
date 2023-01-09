@@ -312,6 +312,29 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="AFORM" Key="{7D74B556-8F93-449F-8687-DD760650D773}">
+										<Selectors>
+											<Selector>
+												<Value Value="xpath=//*[contains(@text,&apos;TextFieldRfiDetailsAnswer&apos;)]" />
+											</Selector>
+										</Selectors>
+										<Children>
+											<Child Name="Element1" Key="{EA429FC6-65A5-499E-AEC5-11AC4E45D5AD}">
+												<Selectors>
+													<Selector>
+														<Value Value="xpath=//*[contains(@text,&apos;TextFieldRfiDetailsAnswer&apos;)]" />
+													</Selector>
+												</Selectors>
+											</Child>
+											<Child Name="Element2" Key="{9D341BB6-8599-4C1E-9BFB-C2EFAF380BB7}">
+												<Selectors>
+													<Selector>
+														<Value Value="xpath=//*[contains(@text,&apos;TextFieldRfiDetailsAnswer&apos;)]" />
+													</Selector>
+												</Selectors>
+											</Child>
+										</Children>
+									</Child>
 								</Children>
 							</Child>
 						</Children>
