@@ -72,7 +72,7 @@
 										<TypeInfo Item0="{CC85D28A-DA63-42CA-ACDC-AD007F378D54}" />
 										<Selectors>
 											<Selector>
-												<Value Value="2F002F002A005B00400063006F006E00740065006E0074002D0064006500730063003D00220042007500740074006F006E004F00700065006E004E00610076004400720061007700650072000A004F00700065006E0020006E0061007600690067006100740069006F006E0020006D0065006E00750022005D00" Type="7" />
+												<Value Value="xpath=//*[@content-desc=&quot;ButtonOpenNavDrawer&quot;]" />
 											</Selector>
 										</Selectors>
 									</Child>
@@ -88,7 +88,10 @@
 										<Image FileName="-761160753" Left="576" Top="1296" Right="688" Bottom="1352" />
 										<Selectors>
 											<Selector>
-												<Value Value="2F002F002A005B00400063006F006E00740065006E0074002D0064006500730063003D0022000A005300700065006500640020004400690061006C0022005D00" Type="7" />
+												<Value Value="xpath=//android.view.View[@content-desc=&quot;ButtonCreateRfi&quot;]/android.widget.Button" />
+											</Selector>
+											<Selector>
+												<Value Value="780070006100740068003D002F002F002A005B00400063006F006E00740065006E0074002D0064006500730063003D0022000A0042007500740074006F006E0043007200650061007400650052006600690022005D00" Type="7" />
 											</Selector>
 										</Selectors>
 									</Child>

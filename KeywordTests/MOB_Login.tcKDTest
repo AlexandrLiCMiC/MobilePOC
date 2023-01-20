@@ -11,26 +11,14 @@
 		</Data>
 		<Children>
 			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
-				<Data Comment="=====Local Appium - Android phone Asus" />
+				<Data Comment="=====Alex&apos;s MacBook - Android phone OnePlus" />
 			</Operation>
 			<Operation Type="{0CAB7DC6-68EA-472F-AAFD-F1EA1701087E}">
 				<Data>
 					<CommonData Disabled="True" />
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="HubUrl" DefVarType="5" VarType="8" ValueType="6" ValueValue="http://127.0.0.1:4723/wd/hub" />
-						<Parameter Name="Capabilities" DefVarType="5" VarType="8" ValueType="6" ValueValue="{&quot;app&quot;:&quot;C:\\Users\\alexandr.li\\Documents\\TestComplete 15 Projects\\MobilePOC\\construct-pm-debug-apk-nov28.apk&quot;,&quot;automationName&quot;:&quot;UIAutomator2&quot;,&quot;deviceName&quot;:&quot;ASUS_X00PD&quot;,&quot;platformName&quot;:&quot;Android&quot;,&quot;platformVersion&quot;:&quot;8.0&quot;}" />
-						<Parameter Name="ConnectTimeoutSec" DefVarType="12" VarType="3" ValueType="1" ValueValue="600" />
-					</Parameters>
-				</Data>
-			</Operation>
-			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
-				<Data Comment="=====Alex&apos;s MacBook - Android phone Asus" />
-			</Operation>
-			<Operation Type="{0CAB7DC6-68EA-472F-AAFD-F1EA1701087E}">
-				<Data>
-					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="HubUrl" DefVarType="5" VarType="8" ValueType="6" ValueValue="http://192.168.1.51:4723/wd/hub" />
-						<Parameter Name="Capabilities" DefVarType="5" VarType="8" ValueType="6" ValueValue="{&quot;app&quot;:&quot;\/Users\/qateam\/Desktop\/ConstructPM.apk&quot;,&quot;automationName&quot;:&quot;UIAutomator2&quot;,&quot;deviceName&quot;:&quot;ASUS_X00PD&quot;,&quot;platformName&quot;:&quot;Android&quot;,&quot;platformVersion&quot;:&quot;8.0&quot;}" />
+						<Parameter Name="Capabilities" DefVarType="5" VarType="8" ValueType="6" ValueValue="{&quot;app&quot;:&quot;\/Users\/qateam\/Desktop\/ConstructPM.apk&quot;,&quot;automationName&quot;:&quot;UIAutomator2&quot;,&quot;deviceName&quot;:&quot;OnePlus 9 5G&quot;,&quot;platformName&quot;:&quot;Android&quot;,&quot;platformVersion&quot;:&quot;11.0&quot;}" />
 						<Parameter Name="ConnectTimeoutSec" DefVarType="12" VarType="3" ValueType="1" ValueValue="600" />
 					</Parameters>
 				</Data>
@@ -102,7 +90,7 @@
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Simulates one or several keypresses." Action="Keys">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="a2bA6-55bFb-A6532-9699F-e99F6-98b5b-21C" />
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="a8Db9-31C9e-e19D9-C9C##-222eA-996#%-193" />
 					</Parameters>
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Device.processCmicField.Password;" />
 				</Data>
